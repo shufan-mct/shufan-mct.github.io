@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shufan Lu"
 title_separator          : "-"
 name                     : &name "Shufan Lu"
-description              : &description "personal description"
+description              : &description "PhD Student at Indiana University"
 url                      : https://shufan-mct.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Shufan Lu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student at Indiana University"
   location         : "Bloomington, IN"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=l3A3XPUAAAAJ&hl=en"
-  email            :
-  researchgate     : "https://www.researchgate.net/profile/Shufan-Lu"
+  email            : "sflupp2@gmail.com"
+  researchgate     : # "https://www.researchgate.net/profile/Shufan-Lu"
   uri              :
   bitbucket        :
   codepen          :
