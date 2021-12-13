@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : 
 title_separator          : "-"
 name                     : &name "Shufan Lu"
 description              : &description "PhD Student at Indiana University"
