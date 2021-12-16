@@ -20,3 +20,12 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
+
+  - title: "Physics Research"
+    url: /markdown/
+    
+  - title: "Machine Learning"
+    url: /markdown/
+    
+  - title: "Quantum Computing"
+    url: /markdown/
