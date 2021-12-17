@@ -22,10 +22,13 @@ main:
 #    url: /markdown/
 
   - title: "Physics Research"
-    url: /markdown/
+    url: /research/
     
   - title: "Machine Learning"
-    url: /markdown/
+    url: /machine-learning/
     
   - title: "Quantum Computing"
-    url: /markdown/
+    url: /quantum-computing/
+  
+  - title: "CV"
+    url: /cv/
