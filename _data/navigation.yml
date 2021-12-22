@@ -21,14 +21,14 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
-  - title: "Physics Research"
-    url: /research/
+# - title: "Physics Research"
+#   url: /research/
     
-  - title: "Machine Learning"
-    url: /machine-learning/
+# - title: "Machine Learning"
+#   url: /machine-learning/
     
-  - title: "Quantum Computing"
-    url: /quantum-computing/
+# - title: "Quantum Computing"
+#   url: /quantum-computing/
   
-  - title: "CV"
-    url: /cv/
+# - title: "CV"
+#   url: /cv/
