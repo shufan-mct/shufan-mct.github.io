@@ -11,9 +11,10 @@ excerpt: "Research"
 Conventional neutron interferometry, employing devices constructed from large perfect single crystals of silicon, has been used to explore various foundational aspects of quantum mechanics. Although neutron spin-echo devices are often viewed in terms of Larmor precession of the neutron spin, under special physical conditions, the action of these devices is more suitably interpreted in terms of neutron interferometry and quantum entanglement. 
 
 I develop an operator-based description of two types of multimode-entangled single-neutron quantum optical devices: Wollaston prisms and radio-frequency spin flippers in inclined magnetic field gradients. This treatment is similar to the approach used in quantum optics, and is convenient for the analysis of quantum contextuality measurements in certain types of neutron interferometers. 
-|<img src="/images/wollaston.png" alt="Wollaston" title="Wollaston" /> | <img src="/images/RFflipper.png" alt="RFflipper" title="RFflipper"/> |
-|------------------------------|-----------------------------------|
-| magnetic Wollaston prism     | radio-frequency spin flipper      |
+
+|<img src="/images/wollaston.png" />| <img src="/images/RFflipper.png" />|
+|-----------------------------------|------------------------------------|
+| magnetic Wollaston prism          | radio-frequency spin flipper       |
 
 I describe operationally the way multimode-entangled single-neutron states evolve in these devices, and provide expressions for the associated operators describing the dynamics, in the limit in which the neutron state space is approximated by a finite tensor product of distinguishable subsystems. 
 
