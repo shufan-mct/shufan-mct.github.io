@@ -28,6 +28,8 @@ Publications
 2.	J. Shen, S. J. Kuhn, R. M. Dalgliesh, V. O. de Haan, N. Geerits, A. A. M. Irfan, F. Li, <ins>Shufan Lu</ins>, S. R. Parnell, J. Plomp, A. A. van Well, A. Washington, D. V. Baxter, G. Ortiz, W. M. Snow and R. Pynn, **Unveiling Contextual Realities by Microscopically Entangling a Neutron**. [Nat. Commun. 11, 930 (2020)](https://www.nature.com/articles/s41467-020-14741-y). arXiv:[1908.09823](https://arxiv.org/abs/1908.09823).
 3.	S. J. Kuhn, S. McKay, J. Shen, N. Geerits, R. M. Dalgliesh, E. Dees, A. A. M. Irfan, F. Li, <ins>Shufan Lu</ins>, V. Vangelista, D. V. Baxter, G. Ortiz, S. R. Parnell, W. M. Snow and R. Pynn, **Neutron State Entanglement with Overlapping Paths**. [Phys. Rev. Research 3, 023227 (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023227). arXiv:[2012.11786](https://arxiv.org/abs/2012.11786).
 
+
 # Decoherence in Mirror Reflection of Two-state Neutron Superpositions with Strong Absorption
-## Work in Progress
+
+Work in Progress
 
