@@ -15,7 +15,7 @@ _September 2021_
 *	Built and trained a convolutional neural network (CNN) to classify 60,000 images from the CIFAR-10 dataset into ten categories with 74.3% accuracy.
 *	Augmented the training samples by adding random rotations and translations, further improving the classification accuracy to 75.6%. 
 
-[[Code]](https://github.com/shufan-mct/computer_vision_image_classification)
+[[Code]](https://github.com/shufan-mct/computer_vision_image_classification/blob/main/Image%20Classification.ipynb)
 
 ## Natural Language Processing – Spam Classification 
 
@@ -26,7 +26,7 @@ _August 2021_
 * Transformed natural English words gathered from email messages into numerical vectors using count vectorization.
 * Built a naïve Bayes classifier to distinguish spam emails from legitimate emails with 98.9% accuracy.
 
-[[Code]](https://github.com/shufan-mct/NLP_spam_classifier)
+[[Code]](https://github.com/shufan-mct/NLP_spam_classifier/blob/main/NLP%20Spam%20Classifier.ipynb)
 
 ## Movie Recommendation System
 
@@ -37,7 +37,7 @@ _July 2021_
 *	Analyzed the correlations between ratings given to different movies using pandas and NumPy.
 *	Constructed an item-based collaborative filter from the correlation matrix to predict users’ ratings based on their watching and rating history.
 
-[[Code]](https://github.com/shufan-mct/movie_recommender_system)
+[[Code]](https://github.com/shufan-mct/movie_recommender_system/blob/main/Movie%20Recommender%20System.ipynb)
 
 ## Recurrent Neural Network (RNN) Implementation – Time Series Prediction
 
@@ -48,4 +48,4 @@ _April 2020_
 *	Implemented a RNN from scratch, optimized using gradient descent with backpropagation.
 *	Evaluated the RNN with a time series of a noisy sine wave, correctly predicting subsequent values.
 
-[[Code]](https://github.com/shufan-mct/simple_RNN)
+[[Code]](https://github.com/shufan-mct/simple_RNN/blob/main/Simple%20RNN%20Implementaion.pdf)
