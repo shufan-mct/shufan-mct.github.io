@@ -14,7 +14,7 @@ My [research](https://shufan-mct.github.io/research/) focuses on microscopic neu
 
 My broader research interests also include quantum computing and quantum optical experiments.
 
-Besides physics research, I am passionate about programming and machine learning. I have worked on multiple machine learning projects.
+Besides physics research, I am passionate about programming and machine learning. I have worked on multiple machine learning [projects](https://shufan-mct.github.io/mlproj/).
 
 In my spare time, I enjoy paddle boarding, musical theater and traveling.
 
