@@ -1,6 +1,6 @@
 ---
 
-title: "Machine Learning"
+title: "Machine Learning Projects"
 permalink: /mlproj/
 author_profile: true
 excerpt: "Machine Learning Projects"
