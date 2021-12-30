@@ -6,7 +6,7 @@ author_profile: true
 excerpt: "Research"
 ---
 
-# Multimode-Entangled Single-Neutron Interferometry
+## Multimode-Entangled Single-Neutron Interferometry
 
 Conventional neutron interferometry, employing devices constructed from large perfect single crystals of silicon, has been used to explore various foundational aspects of quantum mechanics. Although neutron spin-echo devices are often viewed in terms of Larmor precession of the neutron spin, under special physical conditions, the action of these devices is more suitably interpreted in terms of neutron interferometry and quantum entanglement. 
 
@@ -29,7 +29,9 @@ Publications
 3.	S. J. Kuhn, S. McKay, J. Shen, N. Geerits, R. M. Dalgliesh, E. Dees, A. A. M. Irfan, F. Li, <ins>Shufan Lu</ins>, V. Vangelista, D. V. Baxter, G. Ortiz, S. R. Parnell, W. M. Snow and R. Pynn. **Neutron State Entanglement with Overlapping Paths**. [Phys. Rev. Research 3, 023227 (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023227). arXiv: [2012.11786](https://arxiv.org/abs/2012.11786).
 
 
-# Decoherence in Mirror Reflection of Two-state Neutron Superpositions with Strong Absorption
+## Decoherence in Mirror Reflection of Two-state Neutron Superpositions with Strong Absorption
 
-Work in Progress
+_Work in Progress_
+
+The theory of single-particle entangled neutron scattering from entangled degrees of freedom in condensed matter is under development. By the optical theorem of scattering theory, entanglement-dependent effects in nonforward scattering must also appear at some level in the forward direction, which is the domain of neutron optics. I have been taking steps toward this development and applying them in neutron-antineutron oscillations under mirror reflection conditions.
 
