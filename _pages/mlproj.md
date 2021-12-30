@@ -17,7 +17,7 @@ _September 2021_
 
 [[Code]](https://github.com/shufan-mct/computer_vision_image_classification/blob/main/Image%20Classification.ipynb)
 
-## Natural Language Processing – Spam Classification 
+## Natural Language Processing (NLP) – Spam Classification 
 
 _August 2021_
 
