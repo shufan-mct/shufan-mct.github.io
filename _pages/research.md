@@ -45,7 +45,7 @@ In November 2020, I participated in the [IBM Quantum Challenge](https://github.c
 
 _January 2021 – December 2021_
 
-This project is a photon experimental equivalent version of the [Multimode-Entangled Single-Neutron Interferometry](https://github.com/shufan-mct/shufan-mct.github.io/blob/master/_pages/research.md#multimode-entangled-single-neutron-interferometry) project. It is one of the optical lab setups we developed for the [Modern Optics course](https://physics.indiana.edu/student-portal/courses/class/iub-spring-2022-phys-p460) for senior undergraduate students.
+This project is a photon experimental equivalent version of the [Multimode-Entangled Single-Neutron Interferometry](#multimode-entangled-single-neutron-interferometry) project. It is one of the optical lab setups we developed for the [Modern Optics course](https://physics.indiana.edu/student-portal/courses/class/iub-spring-2022-phys-p460) for senior undergraduate students.
 
 We built a single-photon entanglement interferometer with two layers of Mach–Zehnder Interferometer based on the [paper](https://iopscience.iop.org/article/10.1088/0953-4075/42/1/015503) by Gadway, Galvez and De Zela. We also designed the data acquisition system with Arduino and Microsoft Excel Data Streamer.
 
