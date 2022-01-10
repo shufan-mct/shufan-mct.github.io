@@ -35,9 +35,9 @@ We view this work as a necessary first step towards a theoretical description of
 
 _November 2020_
 
-[Grover’s algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm) is a quantum algorithm that is used to solve unstructured search problems. By implementing oracle and diffuser blocks repeatedly, the amplitude of the target quantum state will can be significantly amplified.
+[Grover’s algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm) is a quantum algorithm that is used to solve unstructured search problems. By implementing oracle and diffuser blocks repeatedly, the amplitude of the target quantum state can be significantly amplified.
 
-In November 2020, I participated in the [IBM Quantum Challenge](https://github.com/qiskit-community/IBMQuantumChallenge2020) and designed Grover circuits with quantum Random Access Memory (qRAM) to search for solutions to the Lights Out Puzzles and Asteroid Puzzles. My submission ranked 10% among 2000 participants based on quantum costs.
+In November 2020, I participated in the [IBM Quantum Challenge](https://github.com/qiskit-community/IBMQuantumChallenge2020) and designed Grover circuits with quantum Random Access Memory (qRAM) to search for solutions to the Lights Out Puzzles and Asteroid Puzzles. My submission ranked top 10% among 2000 participants based on the quantum costs.
 
 [[Code]](https://github.com/shufan-mct/IBM_quantum_challenge_2020)
 
