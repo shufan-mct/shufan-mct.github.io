@@ -24,8 +24,8 @@ main:
 - title: "Research"
   url: /research/
     
-- title: "Machine Learning"
-  url: /mlproj/
+#  - title: "Machine Learning"
+#    url: /mlproj/
     
 # - title: "Quantum Computing"
 #   url: /quantum-computing/
